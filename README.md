@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitrof1
 - 👀 I’m interested in webdev, graphic design and motorsports.
-- 🌱 I’m currently learning javascript and in the future php and sql
+- 🌱 I’m currently learning nextjs + tailwindcss
 - 📫 If you want to talk about something dm me on twitter @nitro__f1
 
 <!---
